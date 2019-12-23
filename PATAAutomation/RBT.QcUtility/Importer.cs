@@ -34,7 +34,7 @@ namespace RBT.QcUtility
 
         public QcImporter()
         {
-            ServerURL = @"http://fe-hpalm12.de.bosch.com/qcbin";
+            ServerURL = @"https://xxxxxx";
             UserName = Environment.UserName;
             TdOLE.InitConnectionEx(ServerURL);
 
@@ -206,14 +206,14 @@ namespace RBT.QcUtility
         private void AssignValue2Test(Test qcTest, TestScript test)
         {
 
-            qcTest["TS_USER_01"] = "other";
-            qcTest["TS_USER_02"] = test.DoorsLink;
-            qcTest["TS_NAME"] = test.TestCaseName; // Todo: to create a TestCase class to wrap TestScript class, to be improved
-            qcTest["TS_USER_06"] = test.Name;
-            qcTest["TS_USER_15"] = "released";
+            qcTest["xxx"] = "other";
+            qcTest["xxx"] = test.DoorsLink;
+            qcTest["xxx"] = test.TestCaseName; // Todo: to create a TestCase class to wrap TestScript class, to be improved
+            qcTest["xxx"] = test.Name;
+            qcTest["xxx"] = "released";
 
             //todo it is only for Regression test
-            qcTest["TS_USER_03"] = test.CAT;
+            qcTest["xxx"] = test.CAT;
             /*
             qcTest["TS_USER_32"] = "x";
             qcTest["TS_USER_33"] = "x";
@@ -221,8 +221,8 @@ namespace RBT.QcUtility
             qcTest["TS_USER_35"] = "x";
             qcTest["TS_USER_36"] = "x";
             */
-            qcTest["TS_DESCRIPTION"] = test.TestDescription;
-            qcTest["TS_USER_26"] = test.ExpectedResult;
+            qcTest["xxx"] = test.TestDescription;
+            qcTest["xxx"] = test.ExpectedResult;
 
 
         }
