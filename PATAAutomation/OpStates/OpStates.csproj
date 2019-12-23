@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7515E3EA-C70E-4E7C-9F0E-34F7CAB16243}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OpStates</RootNamespace>
+    <AssemblyName>OpStates</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="RBCC.Automation.Data, Version=3.0.0.0, Culture=neutral, PublicKeyToken=8488f29732a5afb8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Bosch\RBCC.Automation.Foundation\bin\RBCC.Automation.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CanTxSignalTypes.cs" />
+    <Compile Include="CANTxParameter.cs" />
+    <Compile Include="OpStates.cs" />
+    <Compile Include="CanTxSignalTypeBase.cs" />
+    <Compile Include="OpStateBase.cs" />
+    <Compile Include="ProjectDefaults.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="StateMachine.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\CANTxGenerator-branch\RBT.Universal.CanTraceAnalyser\RBT.Universal.CanEvalParameters.csproj">
+      <Project>{7e87849e-bcfa-4a6b-beda-1381fb1b6f11}</Project>
+      <Name>RBT.Universal.CanEvalParameters</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CANTxGenerator-branch\RBT.Universal.Keyword\RBT.Universal.Keywords.csproj">
+      <Project>{0f63cd9d-cd57-43b0-a0dd-49e8e4770381}</Project>
+      <Name>RBT.Universal.Keywords</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RBT.Universal\RBT.Universal.csproj">
+      <Project>{d264fb97-209c-4bd9-a61d-10e2a69159a9}</Project>
+      <Name>RBT.Universal</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

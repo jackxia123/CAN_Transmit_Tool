@@ -1,0 +1,134 @@
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\CANTxGenerator.exe.config
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\CANTxGenerator.exe
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\CANTxGenerator.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\CustomControls.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\DBCHandling.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\OpStates.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\RBT.QcUtility.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\RBT.Universal.CanTraceAnalyser.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\RBT.Universal.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\RBT.Universal.Keyword.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\DBCHandling.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\OpStates.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\RBT.QcUtility.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\RBT.Universal.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\RBT.Universal.CanTraceAnalyser.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\RBT.Universal.Keyword.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\CustomControls.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\obj\Debug\QcLogin.g.cs
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\obj\Debug\App.g.cs
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\obj\Debug\CANTxGenerator_MarkupCompile.cache
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\obj\Debug\CANTxGenerator_MarkupCompile.lref
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\obj\Debug\App.baml
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\obj\Debug\MainWindow.baml
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\obj\Debug\QcLogin.baml
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\obj\Debug\CANTxGenerator.g.resources
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\obj\Debug\CANTxGenerator.Properties.Resources.resources
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\obj\Debug\PATAGenerator.csproj.GenerateResource.Cache
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\obj\Debug\CANTxGenerator.exe
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\obj\Debug\CANTxGenerator.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\obj\Debug\PATAGenerator.csprojAssemblyReference.cache
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\obj\Debug\PATAGenerator.csproj.CoreCompileInputs.cache
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\obj\Debug\PATAGenerator.csproj.CopyComplete
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\CANTxGenerator.exe.config
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\CANTxGenerator.exe
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\CANTxGenerator.pdb
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\DbcComparer.exe
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\DBCHandling.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\OpStates.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\RBT.QcUtility.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\RBT.Universal.CanTraceAnalyser.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\RBT.Universal.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\RBT.Universal.Keyword.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\System.Windows.Interactivity.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\RBT.Universal.CanTraceAnalyser.pdb
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\DbcComparer.pdb
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\DbcComparer.exe.config
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\DBCHandling.pdb
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\OpStates.pdb
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\RBT.QcUtility.pdb
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\RBT.Universal.pdb
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\RBT.Universal.Keyword.pdb
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\de\System.Windows.Interactivity.resources.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\en\System.Windows.Interactivity.resources.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\es\System.Windows.Interactivity.resources.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\it\System.Windows.Interactivity.resources.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\obj\Debug\MainWindow.g.cs
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\obj\Debug\QcLogin.g.cs
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\obj\Debug\App.g.cs
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\obj\Debug\CANTxGenerator_MarkupCompile.cache
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\obj\Debug\CANTxGenerator_MarkupCompile.lref
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\obj\Debug\App.baml
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\obj\Debug\MainWindow.baml
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\obj\Debug\QcLogin.baml
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\obj\Debug\CANTxGenerator.g.resources
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\obj\Debug\CANTxGenerator.Properties.Resources.resources
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\obj\Debug\PATAGenerator.csproj.GenerateResource.cache
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\obj\Debug\PATAGenerator.csproj.CoreCompileInputs.cache
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\obj\Debug\PATAGenerator.csproj.CopyComplete
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\obj\Debug\CANTxGenerator.exe
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\obj\Debug\CANTxGenerator.pdb
+D:\XiaYU\PATAAutomation\bin\Debug\CANTxGenerator.exe.config
+D:\XiaYU\PATAAutomation\bin\Debug\CANTxGenerator.exe
+D:\XiaYU\PATAAutomation\bin\Debug\CANTxGenerator.pdb
+D:\XiaYU\PATAAutomation\bin\Debug\DbcComparer.exe
+D:\XiaYU\PATAAutomation\bin\Debug\DBCHandling.dll
+D:\XiaYU\PATAAutomation\bin\Debug\OpStates.dll
+D:\XiaYU\PATAAutomation\bin\Debug\RBT.QcUtility.dll
+D:\XiaYU\PATAAutomation\bin\Debug\RBT.Universal.CanTraceAnalyser.dll
+D:\XiaYU\PATAAutomation\bin\Debug\RBT.Universal.dll
+D:\XiaYU\PATAAutomation\bin\Debug\RBT.Universal.Keyword.dll
+D:\XiaYU\PATAAutomation\bin\Debug\DbcComparer.pdb
+D:\XiaYU\PATAAutomation\bin\Debug\DbcComparer.exe.config
+D:\XiaYU\PATAAutomation\bin\Debug\DBCHandling.pdb
+D:\XiaYU\PATAAutomation\bin\Debug\OpStates.pdb
+D:\XiaYU\PATAAutomation\bin\Debug\RBT.QcUtility.pdb
+D:\XiaYU\PATAAutomation\bin\Debug\RBT.Universal.pdb
+D:\XiaYU\PATAAutomation\bin\Debug\RBT.Universal.CanTraceAnalyser.pdb
+D:\XiaYU\PATAAutomation\bin\Debug\RBT.Universal.Keyword.pdb
+D:\XiaYU\PATAAutomation\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\XiaYU\PATAAutomation\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\XiaYU\PATAAutomation\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\XiaYU\PATAAutomation\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\XiaYU\PATAAutomation\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\XiaYU\PATAAutomation\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\XiaYU\PATAAutomation\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\XiaYU\PATAAutomation\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\XiaYU\PATAAutomation\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\XiaYU\PATAAutomation\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\XiaYU\PATAAutomation\obj\Debug\PATAGenerator.csprojAssemblyReference.cache
+D:\XiaYU\PATAAutomation\obj\Debug\MainWindow.g.cs
+D:\XiaYU\PATAAutomation\obj\Debug\QcLogin.g.cs
+D:\XiaYU\PATAAutomation\obj\Debug\App.g.cs
+D:\XiaYU\PATAAutomation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\XiaYU\PATAAutomation\obj\Debug\CANTxGenerator_MarkupCompile.cache
+D:\XiaYU\PATAAutomation\obj\Debug\CANTxGenerator_MarkupCompile.lref
+D:\XiaYU\PATAAutomation\obj\Debug\App.baml
+D:\XiaYU\PATAAutomation\obj\Debug\MainWindow.baml
+D:\XiaYU\PATAAutomation\obj\Debug\QcLogin.baml
+D:\XiaYU\PATAAutomation\obj\Debug\CANTxGenerator.g.resources
+D:\XiaYU\PATAAutomation\obj\Debug\CANTxGenerator.Properties.Resources.resources
+D:\XiaYU\PATAAutomation\obj\Debug\PATAGenerator.csproj.GenerateResource.cache
+D:\XiaYU\PATAAutomation\obj\Debug\PATAGenerator.csproj.CopyComplete
+D:\XiaYU\PATAAutomation\obj\Debug\CANTxGenerator.exe
+D:\XiaYU\PATAAutomation\obj\Debug\CANTxGenerator.pdb

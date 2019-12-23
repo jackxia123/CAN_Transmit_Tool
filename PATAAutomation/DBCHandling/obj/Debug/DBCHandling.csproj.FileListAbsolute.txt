@@ -1,0 +1,5 @@
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\DBCHandling\bin\Debug\DBCHandling.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\DBCHandling\bin\Debug\DBCHandling.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\DBCHandling\obj\Debug\DBCHandling.csproj.CoreCompileInputs.cache
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\DBCHandling\obj\Debug\DBCHandling.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\DBCHandling\obj\Debug\DBCHandling.pdb

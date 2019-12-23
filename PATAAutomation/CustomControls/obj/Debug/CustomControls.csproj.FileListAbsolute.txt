@@ -1,0 +1,53 @@
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\CustomControls\bin\Debug\CustomControls.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\CustomControls\bin\Debug\CustomControls.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\CustomControls\obj\Debug\ColorPickerUserControl.baml
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\CustomControls\obj\Debug\themes\generic.baml
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\CustomControls\obj\Debug\ColorPickerUserControl.g.cs
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\CustomControls\obj\Debug\CustomControls_MarkupCompile.cache
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\CustomControls\obj\Debug\CustomControls_MarkupCompile.lref
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\CustomControls\obj\Debug\themes\Classic.baml
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\CustomControls\obj\Debug\themes\ColorPicker.baml
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\CustomControls\obj\Debug\themes\FlipPanel.baml
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\CustomControls\obj\Debug\CustomControls.g.resources
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\CustomControls\obj\Debug\CustomControls.Properties.Resources.resources
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.Cache
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\CustomControls\obj\Debug\CustomControls.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\CustomControls\obj\Debug\CustomControls.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\CustomControls\obj\Debug\CustomControls.csprojResolveAssemblyReference.cache
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\CustomControls\bin\Debug\CustomControls.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\CustomControls\bin\Debug\CustomControls.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\CustomControls\obj\Debug\ColorPickerUserControl.baml
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\CustomControls\obj\Debug\themes\generic.baml
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\CustomControls\obj\Debug\ColorPickerUserControl.g.cs
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\CustomControls\obj\Debug\CustomControls_MarkupCompile.cache
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\CustomControls\obj\Debug\CustomControls_MarkupCompile.lref
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\CustomControls\obj\Debug\themes\Classic.baml
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\CustomControls\obj\Debug\themes\ColorPicker.baml
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\CustomControls\obj\Debug\themes\FlipPanel.baml
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\CustomControls\obj\Debug\CustomControls.g.resources
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\CustomControls\obj\Debug\CustomControls.Properties.Resources.resources
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.Cache
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\CustomControls\obj\Debug\CustomControls.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\CustomControls\obj\Debug\CustomControls.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\CustomControls\obj\Debug\CustomControls.csproj.CoreCompileInputs.cache
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\CustomControls\obj\Debug\CustomControls.csprojAssemblyReference.cache
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\CustomControls\bin\Debug\CustomControls.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\CustomControls\bin\Debug\CustomControls.pdb
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\CustomControls\obj\Debug\CustomControls.csprojAssemblyReference.cache
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\CustomControls\obj\Debug\ColorPickerUserControl.baml
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\CustomControls\obj\Debug\themes\generic.baml
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\CustomControls\obj\Debug\ColorPickerUserControl.g.cs
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\CustomControls\obj\Debug\CustomControls_MarkupCompile.cache
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\CustomControls\obj\Debug\CustomControls_MarkupCompile.lref
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\CustomControls\obj\Debug\themes\Classic.baml
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\CustomControls\obj\Debug\themes\ColorPicker.baml
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\CustomControls\obj\Debug\themes\FlipPanel.baml
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\CustomControls\obj\Debug\CustomControls.g.resources
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\CustomControls\obj\Debug\CustomControls.Properties.Resources.resources
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.cache
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\CustomControls\obj\Debug\CustomControls.csproj.CoreCompileInputs.cache
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\CustomControls\obj\Debug\CustomControls.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\CustomControls\obj\Debug\CustomControls.pdb

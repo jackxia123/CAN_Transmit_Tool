@@ -1,0 +1,17 @@
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.QcUtility\obj\Debug\Interop.TDAPIOLELib.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.QcUtility\obj\Debug\RBT.QcUtility.csproj.ResolveComReference.cache
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.QcUtility\obj\Debug\RBT.QcUtility.csprojAssemblyReference.cache
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.QcUtility\obj\Debug\RBT.QcUtility.csproj.CoreCompileInputs.cache
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.QcUtility\bin\Debug\RBT.QcUtility.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.QcUtility\bin\Debug\RBT.QcUtility.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.QcUtility\bin\Debug\RBT.Universal.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.QcUtility\bin\Debug\RBT.Universal.Keyword.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.QcUtility\bin\Debug\RBT.Universal.CanTraceAnalyser.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.QcUtility\bin\Debug\DBCHandling.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.QcUtility\bin\Debug\RBT.Universal.Keyword.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.QcUtility\bin\Debug\RBT.Universal.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.QcUtility\bin\Debug\RBT.Universal.CanTraceAnalyser.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.QcUtility\bin\Debug\DBCHandling.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.QcUtility\obj\Debug\RBT.QcUtility.csproj.CopyComplete
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.QcUtility\obj\Debug\RBT.QcUtility.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.QcUtility\obj\Debug\RBT.QcUtility.pdb

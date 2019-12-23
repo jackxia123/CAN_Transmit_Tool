@@ -1,0 +1,17 @@
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\RBT.Universal.Keyword\bin\Debug\RBT.Universal.Keyword.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\RBT.Universal.Keyword\bin\Debug\RBT.Universal.Keyword.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\RBT.Universal.Keyword\obj\Debug\RBT.Universal.Keyword.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\RBT.Universal.Keyword\obj\Debug\RBT.Universal.Keyword.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\CANTxGenerator-branch\RBT.Universal.Keyword\obj\Debug\RBT.Universal.Keywords.csprojResolveAssemblyReference.cache
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.Universal.Keyword\bin\Debug\RBT.Universal.Keyword.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.Universal.Keyword\bin\Debug\RBT.Universal.Keyword.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.Universal.Keyword\obj\Debug\RBT.Universal.Keyword.dll
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.Universal.Keyword\obj\Debug\RBT.Universal.Keyword.pdb
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.Universal.Keyword\obj\Debug\RBT.Universal.Keywords.csproj.CoreCompileInputs.cache
+C:\Users\XAJ5SZH\Desktop\TFS New\RBT_CANTx_Generator\PATAGenerator\RBT.Universal.Keyword\obj\Debug\RBT.Universal.Keywords.csprojAssemblyReference.cache
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\RBT.Universal.Keyword\bin\Debug\RBT.Universal.Keyword.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\RBT.Universal.Keyword\bin\Debug\RBT.Universal.Keyword.pdb
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\RBT.Universal.Keyword\obj\Debug\RBT.Universal.Keywords.csprojAssemblyReference.cache
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\RBT.Universal.Keyword\obj\Debug\RBT.Universal.Keywords.csproj.CoreCompileInputs.cache
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\RBT.Universal.Keyword\obj\Debug\RBT.Universal.Keyword.dll
+\\szhvm158\TEST\Jack_Xia\PATAAutomation\RBT.Universal.Keyword\obj\Debug\RBT.Universal.Keyword.pdb
